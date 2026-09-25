@@ -1,8 +1,8 @@
 # 탑등반물 캐릭터챗 이미지
 
-GitHub Pages 공개 기본 URL: `https://pooha0129.github.io/`
+GitHub Pages 공개 기본 URL: `https://pooha0129.github.io/tower/`
 
-이미지는 아래 폴더에 넣습니다. 경로와 대소문자를 정확히 지킵니다.
+탑등반물 이미지는 `tower/` 아래의 폴더에 넣습니다. 다른 캐챗은 별도 최상위 폴더를 사용하면 됩니다. 경로와 대소문자를 정확히 지킵니다.
 
 | 폴더 | 용도 | 예시 |
 | --- | --- | --- |
@@ -16,7 +16,7 @@ GitHub Pages 공개 기본 URL: `https://pooha0129.github.io/`
 ## 캐챗 프롬프트용 템플릿
 
 ```text
-기본 URL: https://pooha0129.github.io/
+기본 URL: https://pooha0129.github.io/tower/
 장소: MAP/{장소ID}.webp
 인물: CHAR/{인물ID}_{표정ID}.webp
 몬스터: MON/{몬스터ID}.webp
@@ -27,6 +27,6 @@ GitHub Pages 공개 기본 URL: `https://pooha0129.github.io/`
 없는 조합을 추측해 만들지 않는다.
 ```
 
-`MAP/1.webp`는 연결 테스트용 그림이며 실제 세계관 장면에는 사용하지 않습니다.
+`tower/MAP/1.webp`는 연결 테스트용 그림이며 실제 세계관 장면에는 사용하지 않습니다.
 
 기존 `today-promise` 플래너 저장소와 주소는 그대로 유지합니다.
